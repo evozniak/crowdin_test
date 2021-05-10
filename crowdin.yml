@@ -1,0 +1,3 @@
+files:
+  - source: /Pages/*
+    translation: /Pages/%locale%
