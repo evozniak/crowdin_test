@@ -2,5 +2,6 @@
     "app.main": "DDO - Digital Data Orchestrator!",
     "app.cancel": "Are you sure?",
 	"app.hello": "Hello {user}",
-	"app.copyright": "Copyright XiGinping All rights reserved"
+	"app.copyright": "Copyright XiGinping All rights reserved",
+	"app.test": "Test new string"
 }
