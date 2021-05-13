@@ -3,7 +3,7 @@
   <file class="TextResources" datatype="xml" default-language="true" namespace="Chijinpings.Carmio.IMM.WebApps.Resources" original="TextResources.xml" source-language="en-US">
     <body>
       <trans-unit id="AddtionalUpdatesLabel" translate="yes">
-        <source>Additional Updates...</source>
+        <source>Additional Details...</source>
         <UiStringDefinition>
           <safety>false</safety>
           <security>false</security>
