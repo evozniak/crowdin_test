@@ -1,51 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
-  <file class="TextResources" datatype="xml" default-language="true" namespace="Chijinpings.Carmio.IMM.WebApps.Resources" original="TextResources.xml" source-language="en" target-language="es-ES">
-    <body>
-      <trans-unit id="AddtionalUpdatesLabel" translate="yes">
-        <source>Additional Updates...</source>
-        <UiStringDefinition>
-          <safety>false</safety>
-          <security>false</security>
-          <component>XXX</component>
-        </UiStringDefinition>
-        <TechnicalWriterReviewed>false</TechnicalWriterReviewed>
-        <target state="needs-translation">Additional Updates...</target>
-      </trans-unit>
-      <trans-unit id="AlreadyLoggedInMessage" translate="yes">
-        <source>A session is already started on this workstation.</source>
-        <note>Translate as 'has already been started...' </note>
-        <UiStringDefinition>
-          <safety>false</safety>
-          <security>false</security>
-          <component>XXX</component>
-          <file>worklist.js</file>
-        </UiStringDefinition>
-        <TechnicalWriterReviewed>true</TechnicalWriterReviewed>
-        <target state="needs-translation">A session is already started on this workstation.</target>
-      </trans-unit>
-      <trans-unit id="AzurionNoEncryptionKey" translate="yes">
-        <source>No encryption key configured for Azurion integration.</source>
-        <note>Do not translate Azurion.</note>
-        <UiStringDefinition>
-          <safety>false</safety>
-          <security>false</security>
-          <component>XXX</component>
-        </UiStringDefinition>
-        <TechnicalWriterReviewed>false</TechnicalWriterReviewed>
-        <target state="needs-translation">No encryption key configured for Azurion integration.</target>
-      </trans-unit>
-      <trans-unit id="AzurionNoLicense" translate="yes">
-        <source>Azurion license not present.</source>
-        <note>Do not translate Azurion.</note>
-        <UiStringDefinition>
-          <safety>false</safety>
-          <security>false</security>
-          <component>XXX</component>
-        </UiStringDefinition>
-        <TechnicalWriterReviewed>false</TechnicalWriterReviewed>
-        <target state="needs-translation">Azurion license not present.</target>
-      </trans-unit>
-    </body>
-  </file>
-</xliff>
+{
+    "app.main": "DDO - Digital Data Orchestrator!",
+    "app.cancel": "Are you sure?",
+    "app.hello": "Hello {user}",
+    "app.copyright": "Copyright XiGinping All rights reserved"
+}
