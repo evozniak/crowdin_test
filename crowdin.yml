@@ -1,0 +1,3 @@
+files:
+  - source: /crowd-test/src/locale/
+    translation: /crowd-test/src/locale/%two_letters_code%
