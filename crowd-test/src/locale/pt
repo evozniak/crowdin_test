@@ -1,7 +1,51 @@
-{
-    "app.main": "DDO - Orquestrador de Dados Digital!",
-    "app.cancel": "Tem certeza?",
-    "app.hello": "Olá, {$user}",
-    "app.copyright": "Copyright XiGinping Todos os direitos reservados",
-    "app.test": "Testar nova string"
-}
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file class="TextResources" datatype="xml" default-language="true" namespace="Chijinpings.Carmio.IMM.WebApps.Resources" original="TextResources.xml" source-language="en" target-language="pt-BR">
+    <body>
+      <trans-unit id="AddtionalUpdatesLabel" translate="yes" approved="yes">
+        <source>Additional Details...</source>
+        <UiStringDefinition>
+          <safety>false</safety>
+          <security>false</security>
+          <component>XXX</component>
+        </UiStringDefinition>
+        <TechnicalWriterReviewed>false</TechnicalWriterReviewed>
+        <target state="final">Detalhes Adicionais...</target>
+      </trans-unit>
+      <trans-unit id="AlreadyLoggedInMessage" translate="yes" approved="yes">
+        <source>A session is already started on this workstation.</source>
+        <note>Translate as 'has already been started...' </note>
+        <UiStringDefinition>
+          <safety>false</safety>
+          <security>false</security>
+          <component>XXX</component>
+          <file>worklist.js</file>
+        </UiStringDefinition>
+        <TechnicalWriterReviewed>true</TechnicalWriterReviewed>
+        <target state="final">Uma sessão já foi iniciada nesta estação de trabalho.</target>
+      </trans-unit>
+      <trans-unit id="AzurionNoEncryptionKey" translate="yes" approved="yes">
+        <source>No encryption key configured for Azurion integration.</source>
+        <note>Do not translate Azurion.</note>
+        <UiStringDefinition>
+          <safety>false</safety>
+          <security>false</security>
+          <component>XXX</component>
+        </UiStringDefinition>
+        <TechnicalWriterReviewed>false</TechnicalWriterReviewed>
+        <target state="final">Nenhuma chave de criptografia configurada para integração com Azurion.</target>
+      </trans-unit>
+      <trans-unit id="AzurionNoLicense" translate="yes" approved="yes">
+        <source>Azurion license not present.</source>
+        <note>Do not translate Azurion.</note>
+        <UiStringDefinition>
+          <safety>false</safety>
+          <security>false</security>
+          <component>XXX</component>
+        </UiStringDefinition>
+        <TechnicalWriterReviewed>false</TechnicalWriterReviewed>
+        <target state="final">Teste.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
