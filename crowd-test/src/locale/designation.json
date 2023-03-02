@@ -1,0 +1,23 @@
+{
+  "code": "de",
+  "display": "German",
+  "designation": [{
+      "language": "nl",
+      "value": "Duits"
+    },{
+      "language": "ru",
+      "value": "Немецкий"
+    },{
+      "language": "pt",
+      "value": "Alemão"
+    },                
+    {
+      "language": "zh",
+      "use": {
+        "system": "http://terminology.hl7.org/CodeSystem/designation-usage",
+        "code": "display"
+      },
+      "value": "德语"
+    }
+  ]
+}
