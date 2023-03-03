@@ -13,7 +13,7 @@
       </trans-unit>
 
       <trans-unit id="AlreadyLoggedInMessage" translate="yes">
-        <source>A session is already started on this workstation.</source>
+        <source>A session was already started on this workstation.</source>
         <note>Translate as 'has already been started...' </note>
         <UiStringDefinition>
           <safety>false</safety>
@@ -23,6 +23,19 @@
         </UiStringDefinition>
         <TechnicalWriterReviewed>true</TechnicalWriterReviewed>
       </trans-unit>
+      
+
+      <trans-unit id="Erikson" translate="yes">
+        <source>New string.</source>
+        <note>Test.' </note>
+        <UiStringDefinition>
+          <safety>false</safety>
+          <security>false</security>
+          <component>XXX</component>
+          <file>worklist.js</file>
+        </UiStringDefinition>
+        <TechnicalWriterReviewed>true</TechnicalWriterReviewed>
+      </trans-unit>      
 
       <trans-unit id="AzurionNoEncryptionKey" translate="yes">
         <source>No encryption key configured for Azurion integration.</source>
